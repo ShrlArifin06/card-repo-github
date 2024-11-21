@@ -1,4 +1,4 @@
 card-repo-github/
-|-- index.html
-|-- style.css
+index.html
+style.css
 
